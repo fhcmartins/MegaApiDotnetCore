@@ -4,7 +4,6 @@
 
 A Gamer API to return Mega Man games metadata.
 
-![Build Status](https://github.com/fhcmartins/MegaApiDotnetCore/actions/workflows/build.yml/badge.svg)
 ![Latest Release](https://img.shields.io/github/v/release/fhcmartins/MegaApiDotnetCore)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![.NET Core](https://img.shields.io/badge/.NET-Core-512BD4?style=flat&logo=.net)
