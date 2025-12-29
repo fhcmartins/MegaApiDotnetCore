@@ -1,6 +1,6 @@
 # Mega Man Robots API
 
-![Mega Man Robots API](./_docs/assets/icon.png)
+![Mega Man Robots API](./_docs/assets/mega-man-pixel-art.png)
 
 A Gamer API to return Mega Man games metadata.
 
